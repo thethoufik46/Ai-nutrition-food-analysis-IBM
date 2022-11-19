@@ -7,7 +7,7 @@ videodemo:
 
 
 
-live demo:
+live demo: https://thethoufik46.github.io/Ai-nutrition-food-analysis-IBM/
 
 output:
 
